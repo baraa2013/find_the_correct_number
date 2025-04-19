@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(66, 75, 80);
+}
+#PageTitle{
+    display: block;
+    width: 300px;
+    margin: auto;
+}
+#game1{
+    display: inline;
+    float: left;
+    width: 450px;
+    height: 450px;
+}
+#تعريف{
+    display: inline;
+    size: 150px;
+    width: 300px;
+    float: right;
+    color: white;
+}
+#تحميل{
+    display: inline;
+    size: 150px;
+    width: 300px;
+    float: right;
+    color: rgb(0, 102, 255); 
+    text-decoration: underline;
+}
+#تنبيه{
+    display: inline;
+    size: 150px;
+    width: 300px;
+    float: right;
+    color: rgb(102, 17, 17); 
+}
